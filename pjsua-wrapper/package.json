@@ -1,0 +1,11 @@
+{
+  "name": "pjsua_wrapper",
+  "version": "0.0.1",
+  "description": "PJSUA wrapper",
+  "main": "test.js",
+  "private": true,
+  "gypfile": true,
+  "dependencies": {
+    "bindings": "~1.2.1"
+  }
+}
